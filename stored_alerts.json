@@ -5,5 +5,12 @@
         "validfrom": "2024-01-07T00:00:00",
         "validtill": "2024-01-08T00:00:00",
         "filename": "712024143345683Bulletin 2.0_Rainfall Forecast Maps 07-01-2024 based on NCEPGFS Deterministic Run_07-01-2024 00hr(UTC).pdf"
+    },
+    {
+        "sid": 658,
+        "linktext": "Bulletin 2.0_Rainfall Forecast Maps 08-01-2024 based on NCEPGFS Deterministic Run_07-01-2024 18hr(UTC)",
+        "validfrom": "2024-01-08T00:00:00",
+        "validtill": "2024-01-09T00:00:00",
+        "filename": "81202483852806Bulletin 2.0_Rainfall Forecast Maps 08-01-2024 based on NCEPGFS Deterministic Run_07-01-2024 18hr(UTC).pdf"
     }
 ]
